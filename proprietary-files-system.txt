@@ -1,0 +1,6 @@
+-app/SoterService/SoterService.apk
+etc/nfcee_access.xml
+etc/permissions/com.nxp.nfc.xml
+framework/com.nxp.nfc.jar
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
